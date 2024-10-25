@@ -1,5 +1,11 @@
 # @hyperlane-xyz/utils
 
+## 5.6.2
+
+### Patch Changes
+
+- a36fc5fb: fix: isObject utils fn should return only boolean value
+
 ## 5.6.1
 
 ## 5.6.0

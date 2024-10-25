@@ -1,5 +1,14 @@
 # @hyperlane-xyz/infra
 
+## 5.6.2
+
+### Patch Changes
+
+- Updated dependencies [a36fc5fb]
+  - @hyperlane-xyz/utils@5.6.2
+  - @hyperlane-xyz/sdk@5.6.2
+  - @hyperlane-xyz/helloworld@5.6.2
+
 ## 5.6.1
 
 ### Patch Changes
